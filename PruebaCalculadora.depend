@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1536293064 source:c:\users\matias\desktop\pruebacalculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"Funcion.h"
+
+1536290852 c:\users\matias\desktop\pruebacalculadora\funcion.h
+
+1536293011 source:c:\users\matias\desktop\pruebacalculadora\funcion.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"Funcion.h"
+
+1536293011 source:c:\users\matias\desktop\tp1-espindola-matias\funcion.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"Funcion.h"
+
+1536290852 c:\users\matias\desktop\tp1-espindola-matias\funcion.h
+
+1536293956 source:c:\users\matias\desktop\tp1-espindola-matias\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"Funcion.h"
+
